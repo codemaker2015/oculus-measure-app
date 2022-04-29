@@ -1,0 +1,23 @@
+﻿### Unity ###
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/Logs/
+#[Bb]uild/
+#[Bb]uilds/
+/*.csproj
+/*.sln
+
+desktop.ini
+.DS_Store
+.vs/
+bin/
+obj/
+*.pdb
+.vscode
+.idea/
+.settings
+.project
+.classpath
+*.mdb
+*.symbols.zip
