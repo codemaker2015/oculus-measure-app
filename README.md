@@ -18,7 +18,7 @@ NB: This demo is recorded using the sharing app of Oculus. So, we can see only a
 
 - Follow [these instructions](https://sidequestvr.com/setup-howto) to install SideQuest and setup your Oculus Quest 2 for development.
 
-- [Download the latest APK](https://github.com/codemaker2015/oculus-measure-app/Builds/vmeasure.apk).
+- [Download the latest APK](https://github.com/codemaker2015/oculus-measure-app/releases/download/version1.0/vmeasure.apk).
 
 - Connect your Oculus Quest to your computer, launch SideQuest and drag the APK to the top left corner of SideQuest to install it.
 
