@@ -5,6 +5,8 @@ Use your Oculus Quest 2 with Passthrough as a tape measure.
 
 ## Demos
 
+<img src="Demos/vmeasure.png" />
+
 <img src="Demos/demo.gif" />
 
 NB: This demo is recorded using the sharing app of Oculus. So, we can see only a black background instead of real background. But the app will show the real camera feed while running it in the Oculus device. 
