@@ -6,7 +6,7 @@
 #[Bb]uild/
 #[Bb]uilds/
 /*.csproj
-/*.sln
+#/*.sln
 
 desktop.ini
 .DS_Store
